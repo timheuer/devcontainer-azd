@@ -2,6 +2,7 @@
     "azd": {
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
+            "ghcr.io/devcontainers-contrib/features/curl-apt-get:1": {},
             "azd": {}
         }
     }
