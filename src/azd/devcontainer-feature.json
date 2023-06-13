@@ -4,6 +4,7 @@
     "version": "1.0.1",
     "description": "The Azure Developer CLI",
     "installsAfter": [
-        "ghcr.io/devcontainers/features/common-utils"
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers-contrib/features/curl-apt-get"
     ]
 }
