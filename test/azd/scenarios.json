@@ -1,0 +1,8 @@
+{
+    "azd": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "azd": {}
+        }
+    }
+}
