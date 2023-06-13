@@ -1,0 +1,9 @@
+{
+    "name": "Azure Developer CLI",
+    "id": "azd",
+    "version": "1.0.1",
+    "description": "The Azure Developer CLI",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
